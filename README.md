@@ -21,19 +21,6 @@ API Dashboard Project is a Python GUI application that integrates multiple APIs 
 * Requests
 * Pandas
 
-## APIs Used
-
-### Weather API
-
-https://wttr.in
-
-### Crypto API
-
-https://api.coingecko.com
-
-### News API
-
-https://hn.algolia.com
 
 ## Project Structure
 
@@ -56,7 +43,7 @@ pip install requests pandas
 ## How to Run
 
 ```bash
-python api_dashboard.py
+API integration-task 2.py
 ```
 
 ## Sample Inputs
@@ -131,10 +118,3 @@ Author: David Smith
 * Handling Exceptions
 * Displaying Structured Data Using Pandas
 
-## Author
-
-Nagaraj Naik
-
-## License
-
-This project is created for educational and internship purposes.
